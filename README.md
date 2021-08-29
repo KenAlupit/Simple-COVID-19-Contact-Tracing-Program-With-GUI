@@ -4,7 +4,7 @@ An almost identical program to https://github.com/KenAlupit/Simple-COVID-19-cont
 
 Features/additions:
 - Live date and time on the main menu and the admin panel.
-- Middle name being non-mandatory.
+- The middle name is non-mandatory.
 - Birthday/date selection calendar.
 - Accepts 2 phone number formats either 11 digits (09xxxxxxxxx) or 10 digits (9xxxxxxxxx).
 - Username and password for the administrator.
